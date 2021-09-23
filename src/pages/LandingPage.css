@@ -1,0 +1,20 @@
+.main {
+  text-align: center;
+  background: rgb(182, 181, 181);
+}
+
+.add-new-car-btn {
+  margin: 30px 20px 10px;
+}
+
+.shop-items-section {
+  margin: 0px 20px 50px;
+}
+
+.modal-content {
+  /* background-color: #fefefe; */
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  /* width: 40%; */
+}

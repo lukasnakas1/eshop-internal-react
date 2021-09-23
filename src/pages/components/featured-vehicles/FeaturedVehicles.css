@@ -1,0 +1,13 @@
+.carousel {
+  background-color: #373940;
+}
+
+.carousel-img {
+  height: 400px;
+}
+
+.featured-car-details {
+  color: white;
+  margin-bottom: 20px;
+  margin-top: -50px;
+}

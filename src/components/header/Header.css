@@ -1,0 +1,9 @@
+.header {
+  background: rgb(182, 181, 181);
+  height: 60px;
+}
+
+.header-logo {
+  padding: 10px;
+  height: 60px;
+}
